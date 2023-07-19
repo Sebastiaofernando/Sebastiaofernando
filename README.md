@@ -1,4 +1,4 @@
-Software Analyst
+Software Analyst|
 Java programmer| C++| HTML5| css| javascript
 Studying Technology in Systems Analysis and Development at UNINOVE- 2023/06-2025
 <!---
