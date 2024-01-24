@@ -1,5 +1,5 @@
 Software Analyst|
-Java programmer| Java| HTML5| css|
+Java| HTML5| css|
 Studying Technology in Systems Analysis and Development at UNINOVE- 2023/06-2025
 <!---
 Sebastiaofernando/Sebastiaofernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
